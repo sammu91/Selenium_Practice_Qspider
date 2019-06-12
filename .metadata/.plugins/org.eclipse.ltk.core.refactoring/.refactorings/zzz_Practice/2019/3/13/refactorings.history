@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Session 11 TestNG/src/TestNG&apos;&#x0D;&#x0A;- Original project: &apos;zzz_Practice&apos;&#x0D;&#x0A;- Destination element: &apos;Session 11 TestNG/src/TestNG&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     zzz_Practice.HDFC.java&#x0D;&#x0A;     zzz_Practice.GoIbibibo.java" description="Copy compilation units" destination="=Session 11 TestNG/src&lt;TestNG" element1="/src&lt;zzz_Practice{HDFC.java" element2="/src&lt;zzz_Practice{GoIbibibo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1553745779976" units="2" version="1.0"/>
+</session>

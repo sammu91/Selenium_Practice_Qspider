@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BatchExecution]">
+  <test name="01and02classbatchexecution">
+    <classes>
+      <class name="TestNG.O2_Batchexecution_suitefile"/>
+      <class name="TestNG.O1_TextNG_class"/>
+    </classes>
+  </test> <!-- 01and02classbatchexecution -->
+</suite> <!-- Failed suite [BatchExecution] -->

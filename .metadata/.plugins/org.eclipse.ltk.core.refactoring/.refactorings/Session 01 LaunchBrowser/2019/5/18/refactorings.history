@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Session22(pop up handling)&apos;&#x0D;&#x0A;- Original project: &apos;Session 01 LaunchBrowser&apos;&#x0D;&#x0A;- Destination element: &apos;Session22(pop up handling)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jarfiles&#x0D;&#x0A;     exefiles" description="Copy folders" destination="=Session22\(pop up handling)" element1="jarfiles" element2="exefiles" files="0" flags="589830" folders="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556947675701" units="0" version="1.0"/>
+</session>

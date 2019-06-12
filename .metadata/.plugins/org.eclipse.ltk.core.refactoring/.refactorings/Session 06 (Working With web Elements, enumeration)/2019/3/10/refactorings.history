@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;package1.Q1_Locators&apos; to &apos;Webelement_methods&apos;&#x0D;&#x0A;- Original project: &apos;Session 5(Working With web Elements)&apos;&#x0D;&#x0A;- Original element: &apos;package1.Q1_Locators&apos;&#x0D;&#x0A;- Renamed element: &apos;package1.Webelement_methods&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Q1_Locators&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;package1{Q1_Locators.java[Q1_Locators" matchStrategy="1" name="Webelement_methods" qualified="false" references="true" similarDeclarations="false" stamp="1551699197085" textual="false" version="1.0"/>
+</session>

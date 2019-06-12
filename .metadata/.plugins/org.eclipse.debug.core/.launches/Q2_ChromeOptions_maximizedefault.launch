@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Session 03 (functions)/src/session_3_Functions/Q2_ChromeOptions_maximizedefault.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="session_3_Functions.Q2_ChromeOptions_maximizedefault"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Session 03 (functions)"/>
+</launchConfiguration>

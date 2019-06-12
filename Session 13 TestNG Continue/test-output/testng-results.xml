@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parametrization" duration-ms="282" started-at="2019-04-04T12:51:19Z" finished-at="2019-04-04T12:51:19Z">
+    <groups>
+    </groups>
+    <test name="parameterTest" duration-ms="282" started-at="2019-04-04T12:51:19Z" finished-at="2019-04-04T12:51:19Z">
+      <class name="parameterization.Parameters_test">
+        <test-method status="PASS" signature="Precondition(java.lang.String, java.lang.String)[pri:0, instance:parameterization.Parameters_test@21a06946]" name="Precondition" is-config="true" duration-ms="147" started-at="2019-04-04T18:21:19Z" finished-at="2019-04-04T18:21:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firfox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://127.0.0.1/tasks/otasklist.do]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:parameterization.Parameters_test@21a06946]" name="demo" duration-ms="48" started-at="2019-04-04T18:21:19Z" finished-at="2019-04-04T18:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- parameterization.Parameters_test -->
+    </test> <!-- parameterTest -->
+  </suite> <!-- Parametrization -->
+</testng-results>

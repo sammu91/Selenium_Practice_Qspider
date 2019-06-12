@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orderexecutionbysuite" >
+  <test name="Test">
+    <classes>
+      <class name="TestNG.O3_Orderofscriptexecution_threeways">
+      
+      <methods>
+      <include name ="dummy"/>
+      <include name ="prototype"/>
+      <include name ="demo"/>
+      </methods>
+     
+     
+      
+      </class>
+      
+    </classes>
+  </test> 
+</suite> 

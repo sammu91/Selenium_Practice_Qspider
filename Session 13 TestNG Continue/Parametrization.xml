@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parametrization" >
+  <test name="parameterTest">
+  
+  <parameter name="browser" value="firfox"></parameter>             <!-- giving browser name -->
+  <parameter name="baseURL" value="http://127.0.0.1/tasks/otasklist.do"></parameter> <!-- url if we have to test on dev env. -->
+  
+    <classes>
+      <class name="parameterization.Parameters_test"/>
+    </classes>
+  </test> 
+</suite> 

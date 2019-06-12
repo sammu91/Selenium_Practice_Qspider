@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Parametrization]">
+  <parameter name="baseURL" value="http://127.0.0.1/tasks/otasklist.do"/>
+  <parameter name="browser" value="firfox"/>
+  <test name="parameterTest">
+    <parameter name="baseURL" value="http://127.0.0.1/tasks/otasklist.do"/>
+    <parameter name="browser" value="firfox"/>
+    <classes>
+      <class name="parameterization.Parameters_test"/>
+    </classes>
+  </test> <!-- parameterTest -->
+</suite> <!-- Failed suite [Parametrization] -->

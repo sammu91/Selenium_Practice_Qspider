@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Session 4 (Locators)&apos; to &apos;Session 4 (findelement, send keys and Locators)&apos;&#x0D;&#x0A;- Original element: &apos;Session 4 (Locators)&apos;&#x0D;&#x0A;- Renamed element: &apos;Session 4 (Locators)&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Session 4 (Locators)&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Session 4 \(Locators)" name="Session 4 (findelement, send keys and Locators)" references="true" stamp="1549771107589" version="1.0"/>
+</session>
